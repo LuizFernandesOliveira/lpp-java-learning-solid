@@ -1,4 +1,6 @@
-package solid.ocp.calculator.sum;
+package solid.ocp.calculator.sum.compound_sum;
+
+import solid.ocp.calculator.sum.Sum;
 
 import java.util.Arrays;
 
